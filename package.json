@@ -1,0 +1,23 @@
+{
+  "name": "architecture-samples-main",
+  "version": "1.0.0",
+  "description": "These samples showcase different architectural approaches to developing Android apps. In its different branches you'll find the same app (a TODO app) implemented with small differences.",
+  "main": "trace_java_calls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ff0547/architecture-samples-main.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ff0547/architecture-samples-main/issues"
+  },
+  "homepage": "https://github.com/ff0547/architecture-samples-main#readme",
+  "dependencies": {
+    "frida-java-bridge": "^7.0.13"
+  }
+}

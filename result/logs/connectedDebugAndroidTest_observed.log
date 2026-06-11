@@ -1,0 +1,6 @@
+Command: .\gradlew connectedDebugAndroidTest
+Result: FAILED before device execution.
+Evidence 1: adb devices returned only 'List of devices attached' and no device rows.
+Evidence 2: Gradle failed resolving :app:_internal-unified-test-platform-android-test-plugin-host-additional-test-output.
+Dependency: com.android.tools.utp:android-test-plugin-host-additional-test-output:31.13.2
+Error: Remote host terminated the TLS handshake while downloading from https://dl.google.com/dl/android/maven2/.

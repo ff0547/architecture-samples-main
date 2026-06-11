@@ -1,0 +1,73 @@
+{
+  "apk_path": "C:\\Users\\fsqfs\\Desktop\\architecture-samples-main\\app\\build\\outputs\\apk\\debug\\app-debug.apk",
+  "generated_at": "2026-06-08T16:14:25",
+  "package_prefix": "com.example.android.architecture.blueprints.main",
+  "descriptor_prefix": "Lcom/example/android/architecture/blueprints/main/",
+  "dex_count": 12,
+  "package_name": "com.example.android.architecture.blueprints.main",
+  "version_code": "1",
+  "version_name": "1.0",
+  "min_sdk": "21",
+  "target_sdk": "35",
+  "main_activity": "com.example.android.architecture.blueprints.todoapp.TodoActivity",
+  "permissions": [
+    "com.example.android.architecture.blueprints.main.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+  ],
+  "activities": [
+    "androidx.activity.ComponentActivity",
+    "androidx.compose.ui.tooling.PreviewActivity",
+    "com.example.android.architecture.blueprints.todoapp.HiltTestActivity",
+    "com.example.android.architecture.blueprints.todoapp.TodoActivity"
+  ],
+  "services": [
+    "androidx.room.MultiInstanceInvalidationService"
+  ],
+  "receivers": [
+    "androidx.profileinstaller.ProfileInstallReceiver"
+  ],
+  "providers": [
+    "androidx.startup.InitializationProvider"
+  ],
+  "components": [
+    {
+      "type": "main_activity",
+      "java_class_name": "com.example.android.architecture.blueprints.todoapp.TodoActivity",
+      "descriptor": "Lcom/example/android/architecture/blueprints/todoapp/TodoActivity;"
+    },
+    {
+      "type": "activity",
+      "java_class_name": "com.example.android.architecture.blueprints.todoapp.HiltTestActivity",
+      "descriptor": "Lcom/example/android/architecture/blueprints/todoapp/HiltTestActivity;"
+    },
+    {
+      "type": "activity",
+      "java_class_name": "androidx.compose.ui.tooling.PreviewActivity",
+      "descriptor": "Landroidx/compose/ui/tooling/PreviewActivity;"
+    },
+    {
+      "type": "activity",
+      "java_class_name": "com.example.android.architecture.blueprints.todoapp.TodoActivity",
+      "descriptor": "Lcom/example/android/architecture/blueprints/todoapp/TodoActivity;"
+    },
+    {
+      "type": "activity",
+      "java_class_name": "androidx.activity.ComponentActivity",
+      "descriptor": "Landroidx/activity/ComponentActivity;"
+    },
+    {
+      "type": "service",
+      "java_class_name": "androidx.room.MultiInstanceInvalidationService",
+      "descriptor": "Landroidx/room/MultiInstanceInvalidationService;"
+    },
+    {
+      "type": "receiver",
+      "java_class_name": "androidx.profileinstaller.ProfileInstallReceiver",
+      "descriptor": "Landroidx/profileinstaller/ProfileInstallReceiver;"
+    },
+    {
+      "type": "provider",
+      "java_class_name": "androidx.startup.InitializationProvider",
+      "descriptor": "Landroidx/startup/InitializationProvider;"
+    }
+  ]
+}

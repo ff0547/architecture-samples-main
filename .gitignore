@@ -6,3 +6,17 @@ local.properties
 build
 captures
 .externalNativeBuild
+
+# Local installers and runtime tools
+*.msi
+frida-server
+frida-server-*.xz
+
+# Local build outputs
+.gradle/
+**/build/
+apktool-repack-demo/work/
+apktool-repack-demo/demo.keystore
+*.apk
+*.aab
+*.apks

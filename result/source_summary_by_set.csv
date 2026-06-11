@@ -1,0 +1,6 @@
+source_set,files,lines,sloc,classes,functions,tests,complexity
+app_android_test,7,1338,893,7,54,38,7
+app_debug,1,23,5,1,0,0,1
+app_main,36,3280,2224,42,149,0,92
+app_unit_test,9,1237,742,10,65,59,10
+shared_test_main,7,423,243,7,34,0,15

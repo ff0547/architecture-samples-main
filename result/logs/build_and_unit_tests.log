@@ -1,0 +1,3 @@
+Commands executed:
+- .\gradlew assembleDebug: BUILD SUCCESSFUL in 20s; APK app/build/outputs/apk/debug/app-debug.apk, 24440637 bytes.
+- .\gradlew testDebugUnitTest: exit code 0; JUnit XML reports copied to result/tests/unit_xml.

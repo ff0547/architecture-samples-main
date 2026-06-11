@@ -1,0 +1,1829 @@
+{
+  "generated_at": "2026-06-04 11:35:14",
+  "package_name": "com.example.android.architecture.blueprints.main",
+  "node_count": 166,
+  "edge_count": 165,
+  "nodes": [
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.Async$Success$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 1164,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.Async$Success$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.Async$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 895,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.Async$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-5$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 833,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-5$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.taskdetail.TaskDetailViewModel_HiltModules_KeyModule_Provide_LazyMapKey$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 792,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.taskdetail.TaskDetailViewModel_HiltModules_KeyModule_Provide_LazyMapKey$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$13$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 666,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$13$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$_filteredTasksAsync$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 623,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$_filteredTasksAsync$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel_HiltModules$KeyModule$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 615,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel_HiltModules$KeyModule$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-14$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 525,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-14$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ViewModelCBuilder$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 518,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ViewModelCBuilder$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModel_HiltModules_KeyModule_Provide_LazyMapKey$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 472,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModel_HiltModules_KeyModule_Provide_LazyMapKey$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.TodoNavGraphKt$TodoNavGraph$2$1$7$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 370,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.TodoNavGraphKt$TodoNavGraph$2$1$7$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.TodoNavGraphKt$TodoNavGraph$2$1$3$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 317,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.TodoNavGraphKt$TodoNavGraph$2$1$3$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$special$$inlined$map$2$2$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 299,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$special$$inlined$map$2$2$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel_HiltModules_BindsModule_Binds_LazyMapKey$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 280,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel_HiltModules_BindsModule_Binds_LazyMapKey$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.TodoThemeKt->$init(): void",
+      "call_count": 271,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.TodoThemeKt",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepository$getTasksStream$$inlined$map$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 263,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepository$getTasksStream$$inlined$map$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ActivityRetainedCBuilder$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 248,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ActivityRetainedCBuilder$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$SwitchingProvider$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 232,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$SwitchingProvider$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepository$getTasksStream$$inlined$map$1$2$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 232,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepository$getTasksStream$$inlined$map$1$2$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.TodoApplication_HiltComponents$ActivityRetainedC$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 220,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.TodoApplication_HiltComponents$ActivityRetainedC$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-8$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 211,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-8$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 204,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksContent$2$invoke$lambda$4$lambda$3$lambda$2$$inlined$items$default$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 200,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksContent$2$invoke$lambda$4$lambda$3$lambda$2$$inlined$items$default$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-5$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 173,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-5$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposeUtilsKt->$init(): void",
+      "call_count": 171,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposeUtilsKt",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksScreen$2$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 166,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksScreen$2$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.TodoNavGraphKt->$init(): void",
+      "call_count": 158,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.TodoNavGraphKt",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 146,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-4$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 145,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-4$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.TodoDrawerKt$DrawerButton$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 140,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.TodoDrawerKt$DrawerButton$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-3$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 137,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-3$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.statistics.StatisticsViewModel_HiltModules_KeyModule_Provide_LazyMapKey$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 136,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.statistics.StatisticsViewModel_HiltModules_KeyModule_Provide_LazyMapKey$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskScreenKt->$init(): void",
+      "call_count": 135,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskScreenKt",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.CoroutinesUtilsKt->$init(): void",
+      "call_count": 132,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.CoroutinesUtilsKt",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.di.CoroutinesModule$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 130,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.di.CoroutinesModule$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-2$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 130,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-2$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksUiState$$ExternalSyntheticBackport0->$init(): void",
+      "call_count": 124,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksUiState$$ExternalSyntheticBackport0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.TodoDrawerKt$AppDrawer$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 118,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.TodoDrawerKt$AppDrawer$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-11$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 112,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-11$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-8$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 107,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-8$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.Async$Loading$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 105,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.Async$Loading$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksFilterType$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 104,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksFilterType$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.ComposableSingletons$TodoActivityKt$lambda-2$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 96,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.ComposableSingletons$TodoActivityKt$lambda-2$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksScreen$5$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 95,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksScreen$5$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$_filteredTasksAsync$3$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 92,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$_filteredTasksAsync$3$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ViewModelCImpl$SwitchingProvider$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 90,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ViewModelCImpl$SwitchingProvider$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-1$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 82,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-1$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-18$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 82,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-18$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksContent$2$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 77,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksContent$2$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksScreen$5$4$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 68,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksScreen$5$4$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.TodoApplication_HiltComponents$ViewModelC$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 66,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.TodoApplication_HiltComponents$ViewModelC$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-2$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 66,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-2$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt$TasksTopAppBar$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 64,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt$TasksTopAppBar$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$SingletonCImpl$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 62,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$SingletonCImpl$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModel_HiltModules$KeyModule$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 61,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModel_HiltModules$KeyModule$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.TodoThemeKt$TodoTheme$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 59,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.TodoThemeKt$TodoTheme$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.TodoNavGraphKt$TodoNavGraph$2$1$2$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 54,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.TodoNavGraphKt$TodoNavGraph$2$1$2$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$3$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 52,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$3$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.TodoApplication_HiltComponents$SingletonC$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 51,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.TodoApplication_HiltComponents$SingletonC$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksContent$2$invoke$lambda$4$lambda$3$lambda$2$$inlined$items$default$3$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 51,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksContent$2$invoke$lambda$4$lambda$3$lambda$2$$inlined$items$default$3$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepository$getTasksStream$$inlined$map$1$2$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 48,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepository$getTasksStream$$inlined$map$1$2$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-7$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 44,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-7$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 44,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.taskdetail.TaskDetailViewModel_HiltModules$KeyModule$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 36,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.taskdetail.TaskDetailViewModel_HiltModules$KeyModule$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$Builder$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 34,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$Builder$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$uiState$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 34,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$uiState$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-19$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 34,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-19$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.data.source.local.ToDoDatabase$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 32,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.data.source.local.ToDoDatabase$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-4$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 32,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-4$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-15$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 32,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-15$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 28,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.FilteringUiInfo$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 26,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.FilteringUiInfo$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-20$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 25,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-20$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 24,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 23,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$SingletonCImpl$SwitchingProvider$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 22,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$SingletonCImpl$SwitchingProvider$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-7$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 22,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-7$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.TodoNavGraphKt$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 20,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.TodoNavGraphKt$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposeUtilsKt$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 20,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposeUtilsKt$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt$MoreTasksMenu$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 20,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt$MoreTasksMenu$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.data.TaskRepository$DefaultImpls->$init(): void",
+      "call_count": 18,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.data.TaskRepository$DefaultImpls",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.di.DatabaseModule$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 18,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.di.DatabaseModule$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-10$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 18,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-10$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.TodoDrawerKt$AppModalDrawer$2$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 18,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.TodoDrawerKt$AppModalDrawer$2$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ActivityCBuilder$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 14,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ActivityCBuilder$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.data.source.network.TaskNetworkDataSource$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 14,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.data.source.network.TaskNetworkDataSource$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksScreen$3$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 14,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksScreen$3$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.Hilt_TodoApplication$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 12,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.Hilt_TodoApplication$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.TodoDrawerKt->$init(): void",
+      "call_count": 12,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.TodoDrawerKt",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ActivityCImpl$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 10,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ActivityCImpl$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 10,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.data.ModelMappingExtKt$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 10,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.data.ModelMappingExtKt$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksContent$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 10,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksContent$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$5$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 8,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$5$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.di.DatabaseModule_ProvideDataBaseFactory$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 8,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.di.DatabaseModule_ProvideDataBaseFactory$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-10$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 8,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-10$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.Hilt_TodoActivity$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 6,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.Hilt_TodoActivity$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.Hilt_TodoActivity$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 6,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.Hilt_TodoActivity$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.statistics.StatisticsViewModel_HiltModules_BindsModule_Binds_LazyMapKey$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 6,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.statistics.StatisticsViewModel_HiltModules_BindsModule_Binds_LazyMapKey$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-22$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 6,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-22$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-23$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 6,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-23$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.TodoApplication_HiltComponents$ActivityC$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 4,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.TodoApplication_HiltComponents$ActivityC$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.TodoNavGraphKt$TodoNavGraph$2$1$6$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 4,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.TodoNavGraphKt$TodoNavGraph$2$1$6$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModel_HiltModules_BindsModule_Binds_LazyMapKey$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 4,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModel_HiltModules_BindsModule_Binds_LazyMapKey$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksContent$2$invoke$lambda$4$lambda$3$lambda$2$$inlined$items$default$4$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 4,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksContent$2$invoke$lambda$4$lambda$3$lambda$2$$inlined$items$default$4$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt->$init(): void",
+      "call_count": 4,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$special$$inlined$map$2$2$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 4,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$special$$inlined$map$2$2$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-11$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 4,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-11$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt$TopAppBarDropdownMenu$1$2$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 4,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt$TopAppBarDropdownMenu$1$2$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.ComposableSingletons$TodoActivityKt$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.ComposableSingletons$TodoActivityKt$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.ComposableSingletons$TodoActivityKt$lambda-1$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.ComposableSingletons$TodoActivityKt$lambda-1$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ViewModelCImpl$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ViewModelCImpl$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC-IA->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC-IA",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.Hilt_TodoApplication$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.Hilt_TodoApplication$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.TodoActivity$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.TodoActivity$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.TodoApplication$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.TodoApplication$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.TodoNavGraphKt$TodoNavGraph$2$1$2$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.TodoNavGraphKt$TodoNavGraph$2$1$2$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.TodoNavigationActions$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.TodoNavigationActions$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.TodoThemeKt$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.TodoThemeKt$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepository$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepository$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepository$getTasksStream$1$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepository$getTasksStream$1$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.data.ModelMappingExtKt->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.data.ModelMappingExtKt",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$2$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$2$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$4$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$4$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$6$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$6$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.data.source.local.ToDoDatabase_Impl$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.data.source.local.ToDoDatabase_Impl$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.data.source.local.ToDoDatabase_Impl$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.data.source.local.ToDoDatabase_Impl$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.data.source.network.NetworkTask$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.data.source.network.NetworkTask$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.data.source.network.TaskStatus$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.data.source.network.TaskStatus$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.di.CoroutinesModule_ProvidesCoroutineScopeFactory$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.di.CoroutinesModule_ProvidesCoroutineScopeFactory$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.di.CoroutinesModule_ProvidesDefaultDispatcherFactory$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.di.CoroutinesModule_ProvidesDefaultDispatcherFactory$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.di.DatabaseModule_ProvideTaskDaoFactory$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.di.DatabaseModule_ProvideTaskDaoFactory$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.statistics.StatisticsViewModel_HiltModules$KeyModule$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.statistics.StatisticsViewModel_HiltModules$KeyModule$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.taskdetail.TaskDetailScreenKt->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.taskdetail.TaskDetailScreenKt",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.taskdetail.TaskDetailViewModel_HiltModules_BindsModule_Binds_LazyMapKey$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.taskdetail.TaskDetailViewModel_HiltModules_BindsModule_Binds_LazyMapKey$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-6$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-6$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-9$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-9$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksScreen$4$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksScreen$4$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksScreen$5$1$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksScreen$5$1$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksScreen$5$2$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksScreen$5$2$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksUiState$$ExternalSynthetic$Condy1->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksUiState$$ExternalSynthetic$Condy1",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$WhenMappings$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$WhenMappings$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$WhenMappings->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$WhenMappings",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$special$$inlined$map$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$special$$inlined$map$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$special$$inlined$map$1$2$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$special$$inlined$map$1$2$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$special$$inlined$map$1$2$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$special$$inlined$map$1$2$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$special$$inlined$map$2$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$special$$inlined$map$2$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel_HiltModules_KeyModule_Provide_LazyMapKey$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel_HiltModules_KeyModule_Provide_LazyMapKey$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-1$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-1$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-12$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-12$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-13$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-13$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-17$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-17$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-21$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-21$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-3$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-3$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-6$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-6$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-9$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-9$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.CoroutinesUtilsKt$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.CoroutinesUtilsKt$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.TodoDrawerKt$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.TodoDrawerKt$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.TodoDrawerKt$AppModalDrawer$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.TodoDrawerKt$AppModalDrawer$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt$FilterTasksMenu$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt$FilterTasksMenu$1$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt$TasksTopAppBar$2$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt$TasksTopAppBar$2$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt$TopAppBarDropdownMenu$1$4$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt$TopAppBarDropdownMenu$1$4$$ExternalSynthetic$Condy0",
+      "method_name": "$init"
+    },
+    {
+      "id": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt->$init(): void",
+      "call_count": 2,
+      "class_name": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt",
+      "method_name": "$init"
+    },
+    {
+      "id": "ROOT::FrameworkOrAsyncEntry",
+      "call_count": 0
+    }
+  ],
+  "edges": [
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.Async$Success$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 1164
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.Async$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 895
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-5$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 833
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.taskdetail.TaskDetailViewModel_HiltModules_KeyModule_Provide_LazyMapKey$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 792
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$13$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 666
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$_filteredTasksAsync$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 623
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel_HiltModules$KeyModule$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 615
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-14$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 525
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ViewModelCBuilder$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 518
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModel_HiltModules_KeyModule_Provide_LazyMapKey$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 472
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.TodoNavGraphKt$TodoNavGraph$2$1$7$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 370
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.TodoNavGraphKt$TodoNavGraph$2$1$3$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 317
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$special$$inlined$map$2$2$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 299
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel_HiltModules_BindsModule_Binds_LazyMapKey$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 280
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.TodoThemeKt->$init(): void",
+      "call_count": 271
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepository$getTasksStream$$inlined$map$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 263
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ActivityRetainedCBuilder$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 248
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$SwitchingProvider$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 232
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepository$getTasksStream$$inlined$map$1$2$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 232
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.TodoApplication_HiltComponents$ActivityRetainedC$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 220
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-8$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 211
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 204
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksContent$2$invoke$lambda$4$lambda$3$lambda$2$$inlined$items$default$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 200
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-5$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 173
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposeUtilsKt->$init(): void",
+      "call_count": 171
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksScreen$2$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 166
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.TodoNavGraphKt->$init(): void",
+      "call_count": 158
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 146
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-4$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 145
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.TodoDrawerKt$DrawerButton$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 140
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-3$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 137
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.statistics.StatisticsViewModel_HiltModules_KeyModule_Provide_LazyMapKey$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 136
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskScreenKt->$init(): void",
+      "call_count": 135
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.CoroutinesUtilsKt->$init(): void",
+      "call_count": 132
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.di.CoroutinesModule$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 130
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-2$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 130
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksUiState$$ExternalSyntheticBackport0->$init(): void",
+      "call_count": 124
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.TodoDrawerKt$AppDrawer$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 118
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-11$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 112
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-8$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 107
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.Async$Loading$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 105
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksFilterType$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 104
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.ComposableSingletons$TodoActivityKt$lambda-2$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 96
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksScreen$5$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 95
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$_filteredTasksAsync$3$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 92
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ViewModelCImpl$SwitchingProvider$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 90
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-1$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 82
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-18$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 82
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksContent$2$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 77
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksScreen$5$4$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 68
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.TodoApplication_HiltComponents$ViewModelC$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 66
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-2$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 66
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt$TasksTopAppBar$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 64
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$SingletonCImpl$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 62
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModel_HiltModules$KeyModule$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 61
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.TodoThemeKt$TodoTheme$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 59
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.TodoNavGraphKt$TodoNavGraph$2$1$2$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 54
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$3$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 52
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.TodoApplication_HiltComponents$SingletonC$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 51
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksContent$2$invoke$lambda$4$lambda$3$lambda$2$$inlined$items$default$3$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 51
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepository$getTasksStream$$inlined$map$1$2$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 48
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-7$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 44
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 44
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.taskdetail.TaskDetailViewModel_HiltModules$KeyModule$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 36
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$Builder$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 34
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$uiState$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 34
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-19$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 34
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.data.source.local.ToDoDatabase$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 32
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-4$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 32
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-15$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 32
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 28
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.FilteringUiInfo$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 26
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-20$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 25
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 24
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 23
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$SingletonCImpl$SwitchingProvider$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 22
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-7$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 22
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.TodoNavGraphKt$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 20
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposeUtilsKt$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 20
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt$MoreTasksMenu$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 20
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.data.TaskRepository$DefaultImpls->$init(): void",
+      "call_count": 18
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.di.DatabaseModule$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 18
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-10$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 18
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.TodoDrawerKt$AppModalDrawer$2$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 18
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ActivityCBuilder$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 14
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.data.source.network.TaskNetworkDataSource$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 14
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksScreen$3$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 14
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.Hilt_TodoApplication$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 12
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.TodoDrawerKt->$init(): void",
+      "call_count": 12
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ActivityCImpl$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 10
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 10
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.data.ModelMappingExtKt$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 10
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksContent$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 10
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$5$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 8
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.di.DatabaseModule_ProvideDataBaseFactory$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 8
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-10$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 8
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.Hilt_TodoActivity$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 6
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.Hilt_TodoActivity$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 6
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.statistics.StatisticsViewModel_HiltModules_BindsModule_Binds_LazyMapKey$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 6
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-22$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 6
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-23$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 6
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.TodoApplication_HiltComponents$ActivityC$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 4
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.TodoNavGraphKt$TodoNavGraph$2$1$6$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 4
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModel_HiltModules_BindsModule_Binds_LazyMapKey$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 4
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksContent$2$invoke$lambda$4$lambda$3$lambda$2$$inlined$items$default$4$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 4
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt->$init(): void",
+      "call_count": 4
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$special$$inlined$map$2$2$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 4
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-11$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 4
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt$TopAppBarDropdownMenu$1$2$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 4
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.ComposableSingletons$TodoActivityKt$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.ComposableSingletons$TodoActivityKt$lambda-1$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC$ViewModelCImpl$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.DaggerTodoApplication_HiltComponents_SingletonC-IA->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.Hilt_TodoApplication$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.TodoActivity$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.TodoApplication$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.TodoNavGraphKt$TodoNavGraph$2$1$2$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.TodoNavigationActions$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.TodoThemeKt$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepository$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepository$getTasksStream$1$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.data.ModelMappingExtKt->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$2$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$4$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.data.source.local.TaskDao_Impl$6$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.data.source.local.ToDoDatabase_Impl$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.data.source.local.ToDoDatabase_Impl$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.data.source.network.NetworkTask$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.data.source.network.TaskStatus$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.di.CoroutinesModule_ProvidesCoroutineScopeFactory$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.di.CoroutinesModule_ProvidesDefaultDispatcherFactory$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.di.DatabaseModule_ProvideTaskDaoFactory$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.statistics.StatisticsViewModel_HiltModules$KeyModule$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.taskdetail.TaskDetailScreenKt->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.taskdetail.TaskDetailViewModel_HiltModules_BindsModule_Binds_LazyMapKey$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-6$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.ComposableSingletons$TasksScreenKt$lambda-9$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksScreen$4$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksScreen$5$1$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksScreenKt$TasksScreen$5$2$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksUiState$$ExternalSynthetic$Condy1->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$WhenMappings$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$WhenMappings->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$special$$inlined$map$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$special$$inlined$map$1$2$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$special$$inlined$map$1$2$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel$special$$inlined$map$2$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModel_HiltModules_KeyModule_Provide_LazyMapKey$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-1$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-12$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-13$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-17$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-21$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-3$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-6$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.ComposableSingletons$TopAppBarsKt$lambda-9$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.CoroutinesUtilsKt$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.TodoDrawerKt$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.TodoDrawerKt$AppModalDrawer$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt$FilterTasksMenu$1$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt$TasksTopAppBar$2$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt$TopAppBarDropdownMenu$1$4$$ExternalSynthetic$Condy0->$init(): void",
+      "call_count": 2
+    },
+    {
+      "caller": "ROOT::FrameworkOrAsyncEntry",
+      "callee": "com.example.android.architecture.blueprints.todoapp.util.TopAppBarsKt->$init(): void",
+      "call_count": 2
+    }
+  ]
+}

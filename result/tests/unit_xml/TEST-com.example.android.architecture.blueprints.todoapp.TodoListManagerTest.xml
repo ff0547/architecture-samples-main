@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.android.architecture.blueprints.todoapp.TodoListManagerTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-06-08T08:10:58.909Z" hostname="FF0519" time="0.026">
+  <properties/>
+  <testcase name="updateTask_existingTask_shouldUpdateSuccessfully" classname="com.example.android.architecture.blueprints.todoapp.TodoListManagerTest" time="0.023"/>
+  <testcase name="updateTask_nonExistingTask_shouldReturnFalse" classname="com.example.android.architecture.blueprints.todoapp.TodoListManagerTest" time="0.003"/>
+  <testcase name="addTask_validTask_shouldAddSuccessfully" classname="com.example.android.architecture.blueprints.todoapp.TodoListManagerTest" time="0.0"/>
+  <testcase name="removeTask_nonExistingTask_shouldReturnFalse" classname="com.example.android.architecture.blueprints.todoapp.TodoListManagerTest" time="0.0"/>
+  <testcase name="removeTask_existingTask_shouldRemoveSuccessfully" classname="com.example.android.architecture.blueprints.todoapp.TodoListManagerTest" time="0.0"/>
+  <testcase name="addTask_blankTask_shouldNotAdd" classname="com.example.android.architecture.blueprints.todoapp.TodoListManagerTest" time="0.0"/>
+  <testcase name="clearTasks_shouldRemoveAllTasks" classname="com.example.android.architecture.blueprints.todoapp.TodoListManagerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

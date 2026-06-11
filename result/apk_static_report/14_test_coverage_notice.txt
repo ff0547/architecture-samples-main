@@ -1,0 +1,4 @@
+未提供 JaCoCo XML。
+APK 静态分析无法判断哪些方法在测试运行时真正被执行。
+如需导出测试覆盖方法，请重新运行脚本并增加：
+--jacoco-xml path\to\jacocoTestReport.xml

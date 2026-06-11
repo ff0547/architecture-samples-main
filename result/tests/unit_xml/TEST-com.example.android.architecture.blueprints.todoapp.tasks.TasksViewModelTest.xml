@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModelTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-06-08T08:11:01.324Z" hostname="FF0519" time="0.088">
+  <properties/>
+  <testcase name="showEditResultMessages_deleteOk_snackbarUpdated" classname="com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModelTest" time="0.018"/>
+  <testcase name="showEditResultMessages_addOk_snackbarUpdated" classname="com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModelTest" time="0.005"/>
+  <testcase name="activateTask_dataAndSnackbarUpdated" classname="com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModelTest" time="0.011"/>
+  <testcase name="loadCompletedTasksFromRepositoryAndLoadIntoView" classname="com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModelTest" time="0.008"/>
+  <testcase name="completeTask_dataAndSnackbarUpdated" classname="com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModelTest" time="0.006"/>
+  <testcase name="loadAllTasksFromRepository_loadingTogglesAndDataLoaded" classname="com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModelTest" time="0.018"/>
+  <testcase name="loadTasks_error" classname="com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModelTest" time="0.007"/>
+  <testcase name="clearCompletedTasks_clearsTasks" classname="com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModelTest" time="0.006"/>
+  <testcase name="showEditResultMessages_editOk_snackbarUpdated" classname="com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModelTest" time="0.004"/>
+  <testcase name="loadActiveTasksFromRepositoryAndLoadIntoView" classname="com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModelTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

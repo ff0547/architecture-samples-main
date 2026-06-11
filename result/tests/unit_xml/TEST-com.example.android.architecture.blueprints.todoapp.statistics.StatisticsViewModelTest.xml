@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.android.architecture.blueprints.todoapp.statistics.StatisticsViewModelTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-06-08T08:11:01.179Z" hostname="FF0519" time="0.074">
+  <properties/>
+  <testcase name="loadTasks_loading" classname="com.example.android.architecture.blueprints.todoapp.statistics.StatisticsViewModelTest" time="0.059"/>
+  <testcase name="loadNonEmptyTasksFromRepository_NonEmptyResults" classname="com.example.android.architecture.blueprints.todoapp.statistics.StatisticsViewModelTest" time="0.011"/>
+  <testcase name="loadEmptyTasksFromRepository_EmptyResults" classname="com.example.android.architecture.blueprints.todoapp.statistics.StatisticsViewModelTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

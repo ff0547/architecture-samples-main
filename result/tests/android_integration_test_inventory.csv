@@ -1,0 +1,8 @@
+path,package,classes,test_count,lines
+app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskScreenTest.kt,com.example.android.architecture.blueprints.todoapp.addedittask,AddEditTaskScreenTest,2,120
+app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/data/source/local/TaskDaoTest.kt,com.example.android.architecture.blueprints.todoapp.data.source.local,TaskDaoTest,8,224
+app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/statistics/StatisticsScreenTest.kt,com.example.android.architecture.blueprints.todoapp.statistics,StatisticsScreenTest,1,92
+app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailScreenTest.kt,com.example.android.architecture.blueprints.todoapp.taskdetail,TaskDetailScreenTest,2,118
+app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/tasks/AppNavigationTest.kt,com.example.android.architecture.blueprints.todoapp.tasks,AppNavigationTest,5,194
+app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksScreenTest.kt,com.example.android.architecture.blueprints.todoapp.tasks,TasksScreenTest,12,279
+app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksTest.kt,com.example.android.architecture.blueprints.todoapp.tasks,TasksTest,8,311

@@ -1,0 +1,7 @@
+work/
+demo.keystore
+*.apk
+*.apks
+*.aab
+.idea/
+.vscode/

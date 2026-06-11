@@ -1,0 +1,30 @@
+{
+  "core_seed_methods": [
+    "Lcom/example/android/architecture/blueprints/todoapp/tasks/TasksScreenKt$TasksScreen$5;->invoke(Landroidx/compose/foundation/layout/PaddingValues; Landroidx/compose/runtime/Composer; I)V",
+    "Lcom/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailScreenKt$TaskDetailScreen$5;->invoke(Landroidx/compose/foundation/layout/PaddingValues; Landroidx/compose/runtime/Composer; I)V",
+    "Lcom/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskScreenKt$AddEditTaskScreen$5;->invoke(Landroidx/compose/foundation/layout/PaddingValues; Landroidx/compose/runtime/Composer; I)V",
+    "Lcom/example/android/architecture/blueprints/todoapp/tasks/ComposableSingletons$TasksScreenKt$lambda-2$1;->invoke(Landroidx/compose/runtime/Composer; I)V",
+    "Lcom/example/android/architecture/blueprints/todoapp/statistics/StatisticsScreenKt$StatisticsScreen$4;->invoke(Landroidx/compose/foundation/layout/PaddingValues; Landroidx/compose/runtime/Composer; I)V",
+    "Lcom/example/android/architecture/blueprints/todoapp/util/ComposableSingletons$TopAppBarsKt$lambda-16$1;->invoke(Landroidx/compose/runtime/Composer; I)V",
+    "Lcom/example/android/architecture/blueprints/todoapp/tasks/TasksScreenKt$TasksScreen$2;->invoke(Landroidx/compose/runtime/Composer; I)V",
+    "Lcom/example/android/architecture/blueprints/todoapp/util/TodoDrawerKt$AppDrawer$1;->invoke(Landroidx/compose/runtime/Composer; I)V",
+    "Lcom/example/android/architecture/blueprints/todoapp/util/TopAppBarsKt;->TopAppBarDropdownMenu(Lkotlin/jvm/functions/Function2; Lkotlin/jvm/functions/Function4; Landroidx/compose/runtime/Composer; I)V",
+    "Lcom/example/android/architecture/blueprints/todoapp/util/TopAppBarsKt$FilterTasksMenu$1;->invoke(Landroidx/compose/foundation/layout/ColumnScope; Lkotlin/jvm/functions/Function0; Landroidx/compose/runtime/Composer; I)V",
+    "Lcom/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskScreenKt;->AddEditTaskContent(Z Ljava/lang/String; Ljava/lang/String; Lkotlin/jvm/functions/Function1; Lkotlin/jvm/functions/Function1; Landroidx/compose/ui/Modifier; Landroidx/compose/runtime/Composer; I I)V",
+    "Lcom/example/android/architecture/blueprints/todoapp/TodoNavGraphKt$TodoNavGraph$2$1$2$1;->invoke(Landroidx/compose/runtime/Composer; I)V",
+    "Lcom/example/android/architecture/blueprints/todoapp/util/TopAppBarsKt$$ExternalSynthetic$Condy0;->get()Ljava/lang/Object;",
+    "Lcom/example/android/architecture/blueprints/todoapp/tasks/TasksScreenKt;->TasksScreen(I Lkotlin/jvm/functions/Function0; Lkotlin/jvm/functions/Function1; Lkotlin/jvm/functions/Function0; Lkotlin/jvm/functions/Function0; Landroidx/compose/ui/Modifier; Lcom/example/android/architecture/blueprints/todoapp/tasks/TasksViewModel; Landroidx/compose/material3/SnackbarHostState; Landroidx/compose/runtime/Composer; I I)V",
+    "Lcom/example/android/architecture/blueprints/todoapp/tasks/TasksScreenKt;->TaskItem(Lcom/example/android/architecture/blueprints/todoapp/data/Task; Lkotlin/jvm/functions/Function1; Lkotlin/jvm/functions/Function1; Landroidx/compose/runtime/Composer; I)V",
+    "Lcom/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailScreenKt;->TaskDetailScreen(Lkotlin/jvm/functions/Function1; Lkotlin/jvm/functions/Function0; Lkotlin/jvm/functions/Function0; Landroidx/compose/ui/Modifier; Lcom/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailViewModel; Landroidx/compose/material3/SnackbarHostState; Landroidx/compose/runtime/Composer; I I)V",
+    "Lcom/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskScreenKt;->AddEditTaskScreen(I Lkotlin/jvm/functions/Function0; Lkotlin/jvm/functions/Function0; Landroidx/compose/ui/Modifier; Lcom/example/android/architecture/blueprints/todoapp/addedittask/AddEditTaskViewModel; Landroidx/compose/material3/SnackbarHostState; Landroidx/compose/runtime/Composer; I I)V",
+    "Lcom/example/android/architecture/blueprints/todoapp/taskdetail/TaskDetailScreenKt$EditTaskContent$2;->invoke(Landroidx/compose/runtime/Composer; I)V",
+    "Lcom/example/android/architecture/blueprints/todoapp/statistics/StatisticsScreenKt;->StatisticsScreen(Lkotlin/jvm/functions/Function0; Landroidx/compose/ui/Modifier; Lcom/example/android/architecture/blueprints/todoapp/statistics/StatisticsViewModel; Landroidx/compose/material3/SnackbarHostState; Landroidx/compose/runtime/Composer; I I)V",
+    "Lcom/example/android/architecture/blueprints/todoapp/TodoNavGraphKt;->TodoNavGraph(Landroidx/compose/ui/Modifier; Landroidx/navigation/NavHostController; Lkotlinx/coroutines/CoroutineScope; Landroidx/compose/material3/DrawerState; Ljava/lang/String; Lcom/example/android/architecture/blueprints/todoapp/TodoNavigationActions; Landroidx/compose/runtime/Composer; I I)V"
+  ],
+  "core_subgraph_nodes": 180,
+  "core_subgraph_edges": 251,
+  "project_graph_nodes": 2567,
+  "project_graph_edges": 3391,
+  "full_graph_nodes": 2947,
+  "full_graph_edges": 8226
+}

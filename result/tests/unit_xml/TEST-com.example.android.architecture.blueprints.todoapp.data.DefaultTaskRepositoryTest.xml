@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepositoryTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2026-06-08T08:11:01.108Z" hostname="FF0519" time="0.063">
+  <properties/>
+  <testcase name="getTasks_refreshesLocalDataSource" classname="com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepositoryTest" time="0.01"/>
+  <testcase name="getTask_repositoryCachesAfterFirstApiCall" classname="com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepositoryTest" time="0.004"/>
+  <testcase name="getTasks_requestsAllTasksFromRemoteDataSource" classname="com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepositoryTest" time="0.004"/>
+  <testcase name="getTasks_emptyRepositoryAndUninitializedCache" classname="com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepositoryTest" time="0.002"/>
+  <testcase name="getTasks_WithDirtyCache_tasksAreRetrievedFromRemote" classname="com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepositoryTest" time="0.002"/>
+  <testcase name="saveTask_savesToLocalAndRemote" classname="com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepositoryTest" time="0.005"/>
+  <testcase name="deleteSingleTask" classname="com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepositoryTest" time="0.004"/>
+  <testcase name="clearCompletedTasks" classname="com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepositoryTest" time="0.005"/>
+  <testcase name="getTasks_WithBothDataSourcesUnavailable_throwsError" classname="com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepositoryTest" time="0.004"/>
+  <testcase name="deleteAllTasks" classname="com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepositoryTest" time="0.003"/>
+  <testcase name="getTasks_WithDirtyCache_remoteUnavailable_throwsException" classname="com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepositoryTest" time="0.003"/>
+  <testcase name="getTask_forceRefresh" classname="com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepositoryTest" time="0.003"/>
+  <testcase name="getTasks_WithRemoteDataSourceUnavailable_tasksAreRetrievedFromLocal" classname="com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepositoryTest" time="0.001"/>
+  <testcase name="completeTask_activeTaskToServiceAPIUpdatesCache" classname="com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepositoryTest" time="0.006"/>
+  <testcase name="completeTask_completesTaskToServiceAPIUpdatesCache" classname="com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepositoryTest" time="0.004"/>
+  <testcase name="getTasks_repositoryCachesAfterFirstApiCall" classname="com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepositoryTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+class,tests,failures,errors,skipped,time_seconds,xml
+com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModelTest,6,0,0,0,0.201,app/build/test-results/testDebugUnitTest/TEST-com.example.android.architecture.blueprints.todoapp.addedittask.AddEditTaskViewModelTest.xml
+com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepositoryTest,16,0,0,0,0.063,app/build/test-results/testDebugUnitTest/TEST-com.example.android.architecture.blueprints.todoapp.data.DefaultTaskRepositoryTest.xml
+com.example.android.architecture.blueprints.todoapp.MainActivityRobolectricTest,1,0,0,0,2.318,app/build/test-results/testDebugUnitTest/TEST-com.example.android.architecture.blueprints.todoapp.MainActivityRobolectricTest.xml
+com.example.android.architecture.blueprints.todoapp.statistics.StatisticsUtilsTest,4,0,0,0,0.005,app/build/test-results/testDebugUnitTest/TEST-com.example.android.architecture.blueprints.todoapp.statistics.StatisticsUtilsTest.xml
+com.example.android.architecture.blueprints.todoapp.statistics.StatisticsViewModelTest,3,0,0,0,0.074,app/build/test-results/testDebugUnitTest/TEST-com.example.android.architecture.blueprints.todoapp.statistics.StatisticsViewModelTest.xml
+com.example.android.architecture.blueprints.todoapp.taskdetail.TaskDetailViewModelTest,7,0,0,0,0.065,app/build/test-results/testDebugUnitTest/TEST-com.example.android.architecture.blueprints.todoapp.taskdetail.TaskDetailViewModelTest.xml
+com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModelTest,10,0,0,0,0.088,app/build/test-results/testDebugUnitTest/TEST-com.example.android.architecture.blueprints.todoapp.tasks.TasksViewModelTest.xml
+com.example.android.architecture.blueprints.todoapp.TodoListManagerTest,7,0,0,0,0.026,app/build/test-results/testDebugUnitTest/TEST-com.example.android.architecture.blueprints.todoapp.TodoListManagerTest.xml
+com.example.android.architecture.blueprints.todoapp.TodoServiceMockKTest,5,0,0,0,1.944,app/build/test-results/testDebugUnitTest/TEST-com.example.android.architecture.blueprints.todoapp.TodoServiceMockKTest.xml

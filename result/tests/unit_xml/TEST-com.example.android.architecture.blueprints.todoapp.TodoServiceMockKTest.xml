@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.android.architecture.blueprints.todoapp.TodoServiceMockKTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-06-08T08:10:58.948Z" hostname="FF0519" time="1.944">
+  <properties/>
+  <testcase name="loadTasks_repositoryReturnsTasks_shouldReturnTaskList" classname="com.example.android.architecture.blueprints.todoapp.TodoServiceMockKTest" time="1.925"/>
+  <testcase name="addNewTask_validTask_shouldCallRepository" classname="com.example.android.architecture.blueprints.todoapp.TodoServiceMockKTest" time="0.012"/>
+  <testcase name="deleteExistingTask_blankTask_shouldNotCallRepository" classname="com.example.android.architecture.blueprints.todoapp.TodoServiceMockKTest" time="0.003"/>
+  <testcase name="deleteExistingTask_validTask_shouldCallRepository" classname="com.example.android.architecture.blueprints.todoapp.TodoServiceMockKTest" time="0.002"/>
+  <testcase name="addNewTask_blankTask_shouldNotCallRepository" classname="com.example.android.architecture.blueprints.todoapp.TodoServiceMockKTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[WARNING: A Java agent has been loaded dynamically (C:\Users\fsqfs\.gradle\caches\8.13\transforms\07ada6933a02e0bba0ddaf6679fbb967\transformed\jetified-byte-buddy-agent-1.14.17.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+]]></system-err>
+</testsuite>
